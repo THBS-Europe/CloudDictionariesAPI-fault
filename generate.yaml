@@ -1,0 +1,13 @@
+---
+name: CloudDictionariesAPI-fault
+description: <p><b>Hi Team - This is the Cloud Web Portal service API documentation</b></p>
+basePath: /clouddictionariesapi
+openApiSpec: CloudDictionariesAPI-fault.yaml
+environmentSpec: Dev
+type: API
+authMethod: none
+responseCache:
+  timeDuration: 23
+  cachepolicy: api
+schemes: []
+routes: []
